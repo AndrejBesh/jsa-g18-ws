@@ -1,0 +1,25 @@
+{
+  "name": "jsa-g18-ws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrejBesh/jsa-g18-ws.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrejBesh/jsa-g18-ws/issues"
+  },
+  "homepage": "https://github.com/AndrejBesh/jsa-g18-ws#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.6.4"
+  }
+}
